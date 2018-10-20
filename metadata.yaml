@@ -1,5 +1,5 @@
 _repo: Tales-and-Novels-of-J-de-La-Fontaine-Volume-11_5285
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcsh 'Fables, French -- Translations into English'
 - !lcc 'PQ'
 - !lcsh 'French poetry -- Translations into English'
+- GITenberg
 tableOfContents: Preface to The Second Book -- Friar Philip's Geese -- Richard Minutolo.
 title: Tales and Novels of J. de La Fontaine — Volume 11
 url: http://www.gutenberg.org/ebooks/5285
